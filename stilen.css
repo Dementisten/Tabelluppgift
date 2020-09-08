@@ -1,0 +1,18 @@
+table,th,td{
+	border: 1px solid black; 
+	border-collapse: collapse;
+}
+tr:nth-child(n+3){
+	background-color:lightgray;
+	color: black;
+}
+tr:nth-child(even){
+	background-color:gray;
+	color: white;
+}
+.left{
+	text-align: left;
+}
+.right{
+	text-align: right;
+}

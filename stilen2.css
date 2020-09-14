@@ -1,0 +1,26 @@
+table{
+	border: 1px solid black; 
+    border-collapse: collapse;
+    width: 900px;
+    height: 150px;  
+}
+td, th{
+    border: none;
+    width: 1000px;
+    height: 150px;  
+}
+.blue{
+    background-color: rgb(26, 121, 175);
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: rgb(246, 248, 109);
+}
+.green{
+    background-color: rgb(58, 252, 100);
+}
+.black{
+    background-color: rgb(0, 0, 0);
+}

@@ -3,7 +3,7 @@ table,th,td{
 	border-collapse: collapse;
 }
 tr:nth-child(n+3){
-	background-color:lightgray;
+	background-color:rgb(146, 146, 146);
 	color: black;
 }
 tr:nth-child(even){

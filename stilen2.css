@@ -1,14 +1,9 @@
-table{
+td, table{
 	border: 1px solid black; 
     border-collapse: collapse;
     width: 900px;
     height: 150px;  
-}
-td, th{
-    border: none;
-    width: 1000px;
-    height: 150px;  
-}
+} 
 .blue{
     background-color: rgb(26, 121, 175);
 }
